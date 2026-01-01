@@ -1,7 +1,7 @@
 mqtt:
   brokerUrl: tcp://localhost:1883
   clientId: weather-agent
-  topic: /weather/current
+  topic: /weather02/system/
   username: weather_publisher
   password: change_me
 
